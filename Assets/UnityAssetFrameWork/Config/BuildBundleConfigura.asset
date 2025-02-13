@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 812dbe42cbff65543b584ce0d2bba0ea, type: 3}
+  m_Name: BuildBundleConfigura
+  m_EditorClassIdentifier: 
+  AssetBundleConfig:
+  - BundleId: 1
+    ModuleName: 11
+    IsBuild: 0
+    LastClickBtnTime: 0
+  - BundleId: 2
+    ModuleName: 22
+    IsBuild: 0
+    LastClickBtnTime: 0
+  - BundleId: 3
+    ModuleName: 33
+    IsBuild: 0
+    LastClickBtnTime: 0
+  - BundleId: 0
+    ModuleName: 
+    IsBuild: 0
+    LastClickBtnTime: 0
+  - BundleId: 0
+    ModuleName: 
+    IsBuild: 0
+    LastClickBtnTime: 0
+  - BundleId: 0
+    ModuleName: 
+    IsBuild: 0
+    LastClickBtnTime: 0
+  - BundleId: 0
+    ModuleName: 
+    IsBuild: 0
+    LastClickBtnTime: 0
+  - BundleId: 0
+    ModuleName: 
+    IsBuild: 0
+    LastClickBtnTime: 0
+  - BundleId: 0
+    ModuleName: 
+    IsBuild: 0
+    LastClickBtnTime: 0
+  - BundleId: 0
+    ModuleName: 
+    IsBuild: 0
+    LastClickBtnTime: 0
