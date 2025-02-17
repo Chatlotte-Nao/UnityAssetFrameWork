@@ -14,42 +14,54 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   AssetBundleConfig:
   - BundleId: 1
-    ModuleName: 11
-    IsBuild: 0
-    LastClickBtnTime: 0
+    moduleName: 12312
+    isBuild: 1
+    lastClickBtnTime: 7859.82
   - BundleId: 2
-    ModuleName: 22
-    IsBuild: 0
-    LastClickBtnTime: 0
+    moduleName: 56546
+    isBuild: 0
+    lastClickBtnTime: 4276.052
   - BundleId: 3
-    ModuleName: 33
-    IsBuild: 0
-    LastClickBtnTime: 0
+    moduleName: 453123
+    isBuild: 0
+    lastClickBtnTime: 4269.376
   - BundleId: 0
-    ModuleName: 
-    IsBuild: 0
-    LastClickBtnTime: 0
+    moduleName: 
+    isBuild: 0
+    lastClickBtnTime: 4268.7
   - BundleId: 0
-    ModuleName: 
-    IsBuild: 0
-    LastClickBtnTime: 0
+    moduleName: 12378
+    isBuild: 0
+    lastClickBtnTime: 4268.901
   - BundleId: 0
-    ModuleName: 
-    IsBuild: 0
-    LastClickBtnTime: 0
+    moduleName: 
+    isBuild: 0
+    lastClickBtnTime: 4269.08
   - BundleId: 0
-    ModuleName: 
-    IsBuild: 0
-    LastClickBtnTime: 0
+    moduleName: 
+    isBuild: 0
+    lastClickBtnTime: 4270.267
   - BundleId: 0
-    ModuleName: 
-    IsBuild: 0
-    LastClickBtnTime: 0
+    moduleName: 
+    isBuild: 0
+    lastClickBtnTime: 4269.8247
   - BundleId: 0
-    ModuleName: 
-    IsBuild: 0
-    LastClickBtnTime: 0
+    moduleName: 
+    isBuild: 0
+    lastClickBtnTime: 4269.6367
   - BundleId: 0
-    ModuleName: 
-    IsBuild: 0
-    LastClickBtnTime: 0
+    moduleName: 
+    isBuild: 0
+    lastClickBtnTime: 4268.502
+  - BundleId: 0
+    moduleName: 
+    isBuild: 0
+    lastClickBtnTime: 0
+  - BundleId: 0
+    moduleName: 
+    isBuild: 0
+    lastClickBtnTime: 0
+  - BundleId: 0
+    moduleName: 
+    isBuild: 0
+    lastClickBtnTime: 0
