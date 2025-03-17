@@ -10,6 +10,10 @@ public class BuildWindow : OdinMenuEditorWindow
 {
     [SerializeField]
     public BuildBundleWindow buildBundleWindow = new BuildBundleWindow();
+    
+    [SerializeField]
+    public BuildHotPatchWindow buildHotWindow = new BuildHotPatchWindow();
+    
     [MenuItem("AB/AssetBundle")]
     public static void ShowAssetBundleWindow()
     {
@@ -21,10 +25,12 @@ public class BuildWindow : OdinMenuEditorWindow
     protected override OdinMenuTree BuildMenuTree()
     {
         buildBundleWindow.Initzation();
+        buildHotWindow.Initzation();
         OdinMenuTree menuTree = new OdinMenuTree(supportsMultiSelect: false)
         {
             {"Build",null,EditorIcons.House},
             { "Build/AssetBundle",buildBundleWindow,EditorIcons.UnityLogo},
+            { "Build/HotPatch",buildHotWindow,EditorIcons.UnityLogo}
         };
         return menuTree;
     }
